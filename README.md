@@ -1,6 +1,6 @@
-# Hello, World! 👋
+# Hello, my name is Brendan Nguyen! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession or Field] based in [Your Location]. Here you'll find a variety of projects and contributions related to my interests and expertise.
+Welcome to my GitHub profile! I'm Brendan, a student at the University of Pennsylvania pursuing a double major in computer science and mathematics. Here you'll find a variety of projects and contributions related to my interests and expertise.
 
 ## About Me
 
@@ -9,11 +9,9 @@ Welcome to my GitHub profile! I'm [Your Name], a [Your Profession or Field] base
 
 ## Technologies I Love
 
-- 💻 JavaScript | HTML | CSS
-- 🚀 Node.js | React | Vue.js
-- 📱 Mobile App Development (React Native)
-- 🛠 Backend Development with Express.js
-- 📊 Data Visualization with D3.js
+- 💻 Java | Python | SQL | JavaScript | HTML/CSS | OCaml
+- 📊 Data Analysis and Visualization with Pandas, NumPy, Matplotlib, Tableau
+- 🧠 Machine Learning with Scikit-learn, TensorFlow, PyTorch
 
 ## Projects
 
