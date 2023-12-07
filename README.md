@@ -8,6 +8,8 @@
 - ⚡ Interested in **Data Science, Software Engineering, Mathematics**
 
 - 📫 Reach me at **bmnguyen@seas.upenn.edu**
+
+- 🌐 Check out my [website](https://bmnguyen.netlify.app) (IN PROGRESS)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
