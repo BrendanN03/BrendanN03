@@ -3,7 +3,7 @@
 
 - 👨‍💻 VP of Information Systems at the **UPenn Students Federal Credit Union**
 
-- 🌱 Completed coursework in **Big Data Analytics, Database and Information Systems, Data Structures and Algorithms, Probability, Advanced Linear Algebra, Discrete Mathematics, Automata Computability and Complexity, Differential Equations **
+- 🌱 Completed coursework in **Big Data Analytics, Database and Information Systems, Data Structures and Algorithms, Probability, Advanced Linear Algebra, Discrete Mathematics, Automata Computability and Complexity, Differential Equations**
 
 - ⚡ Interested in **Data Science, Software Engineering, Mathematics**
 
