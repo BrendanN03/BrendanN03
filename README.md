@@ -8,7 +8,7 @@
 ### 🏫 Teaching Assistant - Penn Engineering
 *Part-time · Aug 2024 - Present*
 
-*Philadelphia, Pennsylvania, United States*
+*Philadelphia, PA*
 - **CIS 5030 Teaching Assistant** — *Algorithms for Big Data* (Fall 2025)  
 - **CIS 3200 Teaching Assistant** — *Introduction to Algorithms* (Spring 2025, Fall 2025)  
 - **CIS 5020 Teaching Assistant** — *Analysis of Algorithms (Graduate)* (Summer 2025)
