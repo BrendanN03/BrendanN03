@@ -7,6 +7,7 @@
 
 ### 🏫 Teaching Assistant - Penn Engineering
 *Part-time · Aug 2024 - Present*
+
 *Philadelphia, Pennsylvania, United States*
 - **CIS 5030 Teaching Assistant** — *Algorithms for Big Data* (Fall 2025)  
 - **CIS 3200 Teaching Assistant** — *Introduction to Algorithms* (Spring 2025, Fall 2025)  
@@ -15,18 +16,22 @@
 
 ### 🏦 Chief Technology Officer - UPenn Students Federal Credit Union (SFCU)
 *Part-time · Jan 2024 - Present*
+
 *Philadelphia, PA*
 
 ### 💻 Data Science Analyst Intern — J.P. Morgan Chase
 *Internship · Jun 2025 – Aug 2025*  
+
 *New York, NY*
 
 ### 🧠 Technical Advisor Intern — Scale AI
 *Internship · Aug 2024 – Dec 2024*  
+
 *Remote*
 
 ### 🗺️ Software Engineering Intern — Trimble Maps
 *Internship · May 2024 – Aug 2024*
+
 *Princeton, NJ*
 
 ---
