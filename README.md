@@ -3,6 +3,8 @@
 🎓 **M.S.E. Data Science | B.S.E. Computer Science & Mathematics**  
 📍 University of Pennsylvania | Class of 2026  
 
+---
+
 ## 💼 Experience
 
 ### 🏫 Teaching Assistant - Penn Engineering
